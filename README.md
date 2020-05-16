@@ -1,2 +1,2 @@
 # stripped_star_reionisation
-This GitHub contains code and files used in A. Menegas et al.'s Effects of Stripped Stars on Radiation from the Epoch of Reionisation..
+This GitHub contains code and files used in A. Menegas et al.'s Ultraviolet Spectral Signatures of Galaxies due to Helium Stars at the Epoch of Reionisation.
